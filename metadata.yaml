@@ -1,0 +1,44 @@
+_repo: Rick-Dale-A-Story-of-the-Northwest-Coast_35652
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, W. A. (William Allen)
+    alias: Rogers, William Allen
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '32413'
+    url: http://www.gutenberg.org/2009/agents/32413
+covers:
+- cover_type: archival
+  image_path: 35652-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Munroe, Kirk
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '1480'
+    url: http://www.gutenberg.org/2009/agents/1480
+    wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
+description: ''
+gutenberg_issued: '2011-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Mountaineering -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Loggers -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+title: Rick Dale, A Story of the Northwest Coast
+url: http://www.gutenberg.org/ebooks/35652
